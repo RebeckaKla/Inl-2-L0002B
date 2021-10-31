@@ -1,0 +1,7 @@
+Anka   0
+Johan   0
+Kalle   0
+3 säljare har nått nivå 1: under 50 
+0 säljare har nått nivå 2: mellan 50 och 100 
+0 säljare har nått nivå 3: mellan 100 och 200 
+0 säljare har nått nivå 4: över 200

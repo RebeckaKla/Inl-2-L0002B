@@ -1,0 +1,7 @@
+hen 213 s 20
+1 säljare har nått nivå 1: under 50 
+Johan 1234 s 70
+1 säljare har nått nivå 2: mellan 50 och 100 
+0 säljare har nått nivå 3: mellan 100 och 200 
+becka 123 s 300
+1 säljare har nått nivå 4: över 200

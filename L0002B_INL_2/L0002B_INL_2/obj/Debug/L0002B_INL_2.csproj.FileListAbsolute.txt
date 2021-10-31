@@ -1,0 +1,6 @@
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/obj/Debug/L0002B_INL_2.csproj.AssemblyReference.cache
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/obj/Debug/L0002B_INL_2.csproj.CoreCompileInputs.cache
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/bin/Debug/L0002B_INL_2.exe
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/bin/Debug/L0002B_INL_2.pdb
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/obj/Debug/L0002B_INL_2.exe
+/Users/Rebecka/Projects/L0002B_INL_2/L0002B_INL_2/obj/Debug/L0002B_INL_2.pdb
